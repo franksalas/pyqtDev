@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36f7c6e6-a5c2-4547-b584-37fa7bebda1e" name="Default" comment="asdfasdf">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/05_Message_box.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/07_Checkbox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/08_radiobutton.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/09_combobox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/10_Label.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/11_Progressbar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/12_Slider.py" />
+    <list default="true" id="36f7c6e6-a5c2-4547-b584-37fa7bebda1e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/sidepractice/pyqt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Dialog/14_color_dialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Dialog/15_Font_Dialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Dialog/16_File_Dialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/sidepractice/fade.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/sidepractice/fadetest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/sidepractice/practice1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pyqtDev.iml" afterPath="$PROJECT_DIR$/.idea/pyqtDev.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/PyQT Code Structure/1_Code_Structure.py" afterPath="$PROJECT_DIR$/Files/PyQT Code Structure/1_Code_Structure.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/PyQT Code Structure/2_Window_Icon_and_Title.py" afterPath="$PROJECT_DIR$/Files/PyQT Code Structure/2_Window_Icon_and_Title.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/PyQT Code Structure/3_Window_Size.py" afterPath="$PROJECT_DIR$/Files/PyQT Code Structure/3_Window_Size.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/PyQt Widgets/04_PushButton.py" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/04_PushButton.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py" afterPath="$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py" />
     </list>
     <ignored path="pyqtDev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,18 +27,24 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pyqtDev$10_Label.coverage" NAME="10_Label Coverage Results" MODIFIED="1459829804652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$04_PushButton.coverage" NAME="04_PushButton Coverage Results" MODIFIED="1459826079351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$3_Window_Size.coverage" NAME="3_Window_Size Coverage Results" MODIFIED="1459825301875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
-    <SUITE FILE_PATH="coverage/pyqtDev$07_Checkbox.coverage" NAME="07_Checkbox Coverage Results" MODIFIED="1459828647360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
     <SUITE FILE_PATH="coverage/pyqtDev$12_Slider.coverage" NAME="12_Slider Coverage Results" MODIFIED="1459830403328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$04_PushButton.coverage" NAME="04_PushButton Coverage Results" MODIFIED="1459826079351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$fadetest.coverage" NAME="fadetest Coverage Results" MODIFIED="1459877740705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/sidepractice" />
     <SUITE FILE_PATH="coverage/pyqtDev$09_combobox.coverage" NAME="09_combobox Coverage Results" MODIFIED="1459829459714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$11_Progressbar.coverage" NAME="11_Progressbar Coverage Results" MODIFIED="1459830044660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$06_Line_Edit.coverage" NAME="06_Line_Edit Coverage Results" MODIFIED="1459828199124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$08_radiobutton.coverage" NAME="08_radiobutton Coverage Results" MODIFIED="1459829017498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$14_color_dialog.coverage" NAME="14_color_dialog Coverage Results" MODIFIED="1459882377922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Dialog" />
     <SUITE FILE_PATH="coverage/pyqtDev$2_Window_Icon_and_Title.coverage" NAME="2_Window_Icon_and_Title Coverage Results" MODIFIED="1459825145503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
-    <SUITE FILE_PATH="coverage/pyqtDev$05_Message_box.coverage" NAME="05_Message_box Coverage Results" MODIFIED="1459827398416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
-    <SUITE FILE_PATH="coverage/pyqtDev$1_Code_Structure.coverage" NAME="1_Code_Structure Coverage Results" MODIFIED="1459824742706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqtDev$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1459876126038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/sidepractice" />
+    <SUITE FILE_PATH="coverage/pyqtDev$06_Line_Edit.coverage" NAME="06_Line_Edit Coverage Results" MODIFIED="1459875820224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$11_Progressbar.coverage" NAME="11_Progressbar Coverage Results" MODIFIED="1459830044660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$1_Code_Structure.coverage" NAME="1_Code_Structure Coverage Results" MODIFIED="1459875776437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQT Code Structure" />
+    <SUITE FILE_PATH="coverage/pyqtDev$08_radiobutton.coverage" NAME="08_radiobutton Coverage Results" MODIFIED="1459829017498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$07_Checkbox.coverage" NAME="07_Checkbox Coverage Results" MODIFIED="1459828647360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$3_Window_Size.coverage" NAME="3_Window_Size Coverage Results" MODIFIED="1459825301875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
+    <SUITE FILE_PATH="coverage/pyqtDev$16_File_Dialog.coverage" NAME="16_File_Dialog Coverage Results" MODIFIED="1459883344672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Dialog" />
+    <SUITE FILE_PATH="coverage/pyqtDev$05_Message_box.coverage" NAME="05_Message_box Coverage Results" MODIFIED="1459875802151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$15_Font_Dialog.coverage" NAME="15_Font_Dialog Coverage Results" MODIFIED="1459882630765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Dialog" />
+    <SUITE FILE_PATH="coverage/pyqtDev$10_Label.coverage" NAME="10_Label Coverage Results" MODIFIED="1459875858770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/PyQt Widgets" />
+    <SUITE FILE_PATH="coverage/pyqtDev$fade.coverage" NAME="fade Coverage Results" MODIFIED="1459877101822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files/sidepractice" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -70,13 +75,20 @@
         <option value="$PROJECT_DIR$/Files/3_Window_Size.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/04_PushButton.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/05_Message_box.py" />
-        <option value="$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/07_Checkbox.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/08_radiobutton.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/09_combobox.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/10_Label.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/11_Progressbar.py" />
         <option value="$PROJECT_DIR$/Files/PyQt Widgets/12_Slider.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py" />
+        <option value="$PROJECT_DIR$/Files/sidepractice/practice1.py" />
+        <option value="$PROJECT_DIR$/Files/sidepractice/fade.py" />
+        <option value="$PROJECT_DIR$/Files/sidepractice/fadetest.py" />
+        <option value="$PROJECT_DIR$/Files/PyQt Dialog/14_color_dialog.py" />
+        <option value="$PROJECT_DIR$/Files/PyQt Dialog/15_Font_Dialog.py" />
+        <option value="$PROJECT_DIR$/Files/PyQt Dialog/16_File_Dialog.py" />
       </list>
     </option>
   </component>
@@ -86,10 +98,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -134,10 +144,6 @@
               <option name="myItemId" value="pyqtDev" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -152,10 +158,6 @@
               <option name="myItemId" value="Files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt Widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -163,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="271" />
@@ -183,100 +185,107 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="968" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js-jscs-package" value="/usr/local/lib/node_modules/jscs" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Files/sidepractice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\FrankSalas\PycharmProjects\pyqtDev\Files\PyQT Code Structure" />
       <recent name="C:\Users\FrankSalas\PycharmProjects\pyqtDev\Files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12_Slider">
-    <configuration default="false" name="08_radiobutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16_File_Dialog">
+    <configuration default="false" name="fade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Widgets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/sidepractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyqtDev" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Widgets/08_radiobutton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/sidepractice/fade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="09_combobox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="fadetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Widgets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/sidepractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyqtDev" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Widgets/09_combobox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/sidepractice/fadetest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="10_Label" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="14_color_dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Widgets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Dialog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyqtDev" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Widgets/10_Label.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Dialog/14_color_dialog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="11_Progressbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="15_Font_Dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Widgets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Dialog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyqtDev" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Widgets/11_Progressbar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Dialog/15_Font_Dialog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="12_Slider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="16_File_Dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Widgets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files/PyQt Dialog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyqtDev" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Widgets/12_Slider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/PyQt Dialog/16_File_Dialog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -475,19 +484,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.08_radiobutton" />
-      <item index="1" class="java.lang.String" itemvalue="Python.09_combobox" />
-      <item index="2" class="java.lang.String" itemvalue="Python.10_Label" />
-      <item index="3" class="java.lang.String" itemvalue="Python.11_Progressbar" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12_Slider" />
+      <item index="0" class="java.lang.String" itemvalue="Python.fade" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fadetest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.14_color_dialog" />
+      <item index="3" class="java.lang.String" itemvalue="Python.15_Font_Dialog" />
+      <item index="4" class="java.lang.String" itemvalue="Python.16_File_Dialog" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12_Slider" />
-        <item index="1" class="java.lang.String" itemvalue="Python.11_Progressbar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.10_Label" />
-        <item index="3" class="java.lang.String" itemvalue="Python.09_combobox" />
-        <item index="4" class="java.lang.String" itemvalue="Python.08_radiobutton" />
+        <item index="0" class="java.lang.String" itemvalue="Python.16_File_Dialog" />
+        <item index="1" class="java.lang.String" itemvalue="Python.15_Font_Dialog" />
+        <item index="2" class="java.lang.String" itemvalue="Python.14_color_dialog" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fadetest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fade" />
       </list>
     </recent_temporary>
   </component>
@@ -536,22 +545,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12473348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23507462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -599,7 +608,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="start of widgets" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -607,16 +618,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files/PyQT Code Structure/1_Code_Structure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17633675">
-          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="false" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -625,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03526735">
           <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,29 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/05_Message_box.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8282139">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,6 +661,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52901024">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQT Code Structure/1_Code_Structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41544607">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -694,16 +684,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/04_PushButton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03526735">
-          <caret line="1" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.33419022">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/10_Label.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67007965">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.46529564">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -712,8 +704,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/11_Progressbar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67007965">
+        <state vertical-scroll-proportion="0.6349614">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/05_Message_box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3007712">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/06_Line_Edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33419022">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/sidepractice/fadetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7017995">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#260#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/sidepractice/fade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7712082">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/sidepractice/practice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46786633">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -722,8 +764,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Files/PyQt Widgets/12_Slider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52901024">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQt Dialog/14_color_dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQt Dialog/15_Font_Dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/PyQt Dialog/16_File_Dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26804122">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
