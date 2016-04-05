@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f7c6e6-a5c2-4547-b584-37fa7bebda1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Menus &amp; ToolBars/pyqt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Menus &amp; ToolBars/23_Menu_Box.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Menus &amp; ToolBars/24_Menu_Box2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Menus &amp; ToolBars/25_ToolBar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/PyQt Menus &amp; ToolBars/26_StatusBar.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pyqtDev.iws" />
@@ -595,7 +590,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459888680273</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="End of PyQt Menu &amp; Toolbars , Start of PyQt Tabs">
+      <created>1459891212000</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1459891212000</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -606,7 +607,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32711443" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23507462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12017167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -662,7 +663,8 @@
     <MESSAGE value="End of PyQt Dialogs, Start of PyQt Layouts" />
     <MESSAGE value="End of PyQt Layouts, Start of PyQt Signal &amp; Slots" />
     <MESSAGE value="End of PyQt Signal &amp; Slots, Start of PyQt Menu &amp; Toolbars" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of PyQt Signal &amp; Slots, Start of PyQt Menu &amp; Toolbars" />
+    <MESSAGE value="End of PyQt Menu &amp; Toolbars , Start of PyQt Tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of PyQt Menu &amp; Toolbars , Start of PyQt Tabs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
